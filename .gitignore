@@ -1,0 +1,12 @@
+# Node.js
+node_modules/
+npm-debug.log
+
+# Python virtual environment
+venv/
+
+# Playwright browser binaries
+.playwright/
+
+# Playwright browser binaries
+screenshots
